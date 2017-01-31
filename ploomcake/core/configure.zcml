@@ -19,10 +19,4 @@
              name="ploomcake.cake.collab"
         />
 
- <utility factory=".setuphandlers.HiddenProducts"
-           name="ploomcake.core.hiddenproducts" />
-
-  <utility factory=".setuphandlers.HiddenProfiles"
-           name="ploomcake.core.hiddenprofiles" />
-
 </configure>
